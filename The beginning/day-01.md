@@ -1,1 +1,1 @@
-
+Starting anything new is scary. I've worked on the service desk for just shy of two years (at the time of writing/typing) and I've never used Bash, nor have I ever needed to. Sometimes, trying new things takes courage, and I just want to push myself to learn new things. If you're reading this then you might too.
