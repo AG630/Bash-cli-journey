@@ -12,3 +12,14 @@ In my example, I've assigned Polska=bialo_czerwoni, and you can see from my exam
 
 I've been practising along with the FreeCodeCamp article by Zaira - (https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/). There's some important things to make note of with naming conventions in Bash scripting. Firstly, variable names require either a letter or underscore as the first letter. Variable nmame can contain either letters, _ or numbers. They are case sensitve so echo polska would not have worked, for example. No space are allowed and the best practive for variable names is something descriptive.
 
+![image](https://github.com/user-attachments/assets/dcc48935-96f2-4234-8097-eb7816671cdd)
+
+Linux keeps surprising me... in a really good way. You can generate the lines of text/code etc. in the terminal of a specific file. I've already created the test_script.sh so I decided to output that one and it worked beautifully. You can see where I typed the incorrect syntax and missed out the < in the first attempt.
+
+![image](https://github.com/user-attachments/assets/388ca8ab-0953-4857-ae0f-b86be2f85d65)
+
+Something that I was aware of, and am glad is covered in the bash scripting article is echoing some text, and creating a file at the same time. So useful and timesaving:
+
+![image](https://github.com/user-attachments/assets/0a1c9f44-ad23-4ae5-bb7f-4a5361e5dbfd)
+
+
