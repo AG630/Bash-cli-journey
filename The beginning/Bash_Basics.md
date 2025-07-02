@@ -22,4 +22,9 @@ Something that I was aware of, and am glad is covered in the bash scripting arti
 
 ![image](https://github.com/user-attachments/assets/0a1c9f44-ad23-4ae5-bb7f-4a5361e5dbfd)
 
+# Debugging 
+Running scripts and debugging them is important for any scripting language. Seeing the errors in the scripts will help the scripter identify the bugs and issues they need to resolve, to achieve the desired outcome.
+
+In Zaira's freecodecamp article, multiple avenue's are discussed so let's dive into them!
+
 
