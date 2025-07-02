@@ -27,4 +27,14 @@ Running scripts and debugging them is important for any scripting language. Seei
 
 In Zaira's freecodecamp article, multiple avenue's are discussed so let's dive into them!
 
+The first debugging technique suggested is set -x. So naturally I added the set -x into the script_text.sh file:
 
+![image](https://github.com/user-attachments/assets/aef093d0-f768-451c-8072-2b0c3ecf2318)
+
+And the outcome we got after running this was:
+
+![image](https://github.com/user-attachments/assets/0533aff9-75f1-43ae-82c0-1f842b2f58b6)
+
+Another very smart way of testing for bugs within a script is to add $echo segments throughout. The idea being that you can see where the last one is printed to the terminal, meaning the next segment has the bug where the error is returning. For me this seems slightly longer winded, especially if the script is on the longer length.
+
+Looking through the system logs is another useful way of verifying errors in scripts. I'm using an Ubuntu VM and I can find mine in the /Var/log/syslog.
